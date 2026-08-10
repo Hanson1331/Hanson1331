@@ -13,10 +13,6 @@
   <a href="mailto:hansonz641@gmail.com">Email</a>
 </p>
 
-I am a junior studying Computer Science at The University of Hong Kong. I was a visiting student in Computer Science through Berkeley Global Access at the University of California, Berkeley in Spring 2026 and attended the GLOBEX Julmester Program at Peking University in Summer 2024.
-
-I conduct research in multimodal learning with [Prof. Alan Yuille](https://www.cs.jhu.edu/faculty/alan-yuille/) at the [Computational Cognition, Vision, and Learning Group](https://www.cs.jhu.edu/~ayuille1/), Johns Hopkins University; in AI agents with [Prof. Chao Huang](https://datascience.hku.hk/people/chao-huang/) at [Data Intelligence Lab@HKU](https://sites.google.com/view/chaoh/); and in spatiotemporal prediction with [Prof. Chuanguang Yang](https://winycg.github.io/) at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
-
 ## Open-Source Research
 
 | Project | Publication & Role | Focus |
@@ -39,10 +35,6 @@ I conduct research in multimodal learning with [Prof. Alan Yuille](https://www.c
 - [**CS 184 · SDF Odyssey**](https://github.com/Hanson1331/CS184_SDF_Odessey) — SDF ray marching, shaders, and procedural scene rendering.
 - [**CS 288 · Email Urgency Classification**](https://github.com/Hanson1331/CS288_Final_Project) — Context-aware urgency scoring and classification for email.
 - [**CS 198 · GamesCrafters — The Whole Year Puzzle**](https://github.com/Hanson1331/TheWholeYearPuzzle) — Course repository.
-
-### The University of Hong Kong
-
-- [**RAG for Medical Diagnosis**](https://github.com/Hanson1331/using-RAG-to-do-medical-diagnosis) — A course project exploring retrieval-augmented generation for medical diagnosis.
 
 ## Personal Projects
 
