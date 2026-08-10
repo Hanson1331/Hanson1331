@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hansheng Zeng · 曾瀚圣</h1>
 
-<!--
-**Hanson1331/Hanson1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Junior in Computer Science at <a href="https://www.hku.hk/">The University of Hong Kong</a><br>
+  Multimodal Learning · AI Agents · Spatiotemporal Prediction
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://hanson1331.github.io/">Homepage</a> ·
+  <a href="https://scholar.google.com/citations?user=0HHaRP0AAAAJ">Google Scholar</a> ·
+  <a href="https://dblp.org/pid/402/2400.html">DBLP</a> ·
+  <a href="https://www.linkedin.com/in/hansheng-zeng-72b648290">LinkedIn</a> ·
+  <a href="mailto:hansonz641@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a junior studying Computer Science at The University of Hong Kong. I was a visiting student in Computer Science through Berkeley Global Access at the University of California, Berkeley in Spring 2026 and attended the GLOBEX Julmester Program at Peking University in Summer 2024.
+
+I conduct research in multimodal learning with [Prof. Alan Yuille](https://www.cs.jhu.edu/faculty/alan-yuille/) at the [Computational Cognition, Vision, and Learning Group](https://www.cs.jhu.edu/~ayuille1/), Johns Hopkins University; in AI agents with [Prof. Chao Huang](https://datascience.hku.hk/people/chao-huang/) at [Data Intelligence Lab@HKU](https://sites.google.com/view/chaoh/); and in spatiotemporal prediction with [Prof. Chuanguang Yang](https://winycg.github.io/) at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
+
+## Open-Source Research
+
+| Project | Publication & Role | Focus |
+|---|---|---|
+| [**KBS-MAD**](https://github.com/Hanson1331/KBS-MAD) | Knowledge-Based Systems 2025 · **First author** | Mamba state-space models and Diffusion Transformers for spatiotemporal prediction |
+| [**SDKD**](https://github.com/itsnotacie/SDKD) | ICCV 2025 · Co-author | Frequency-aligned knowledge distillation for lightweight spatiotemporal forecasting |
+| [**RL-Driven K-Space Sampling**](https://github.com/Hanson1331/ICASSP2025) | IEEE TETCI 2026 · **Co-first author** | Adaptive MRI acquisition for efficient medical image segmentation |
+
+## Research Projects at Data Intelligence Lab@HKU
+
+| Project | Description |
+|---|---|
+| **XLR** | Research on AI agents |
+| **LightCode** | Coding-agent skill optimization for efficient skill loading and lower context overhead |
+
+## Coursework & Selected Projects
+
+### University of California, Berkeley
+
+- [**CS 184 · SDF Odyssey**](https://github.com/Hanson1331/CS184_SDF_Odessey) — SDF ray marching, shaders, and procedural scene rendering.
+- [**CS 288 · Email Urgency Classification**](https://github.com/Hanson1331/CS288_Final_Project) — Context-aware urgency scoring and classification for email.
+- [**CS 198 · GamesCrafters — The Whole Year Puzzle**](https://github.com/Hanson1331/TheWholeYearPuzzle) — Course repository.
+
+### The University of Hong Kong
+
+- [**RAG for Medical Diagnosis**](https://github.com/Hanson1331/using-RAG-to-do-medical-diagnosis) — A course project exploring retrieval-augmented generation for medical diagnosis.
+
+## Personal Projects
+
+- [**Whole Year Puzzle**](https://github.com/Hanson1331/WholeYearPuzzle) — A (very interesting) browser-based calendar puzzle that I independently built out of personal interest. (The game is the same as the one in the Berkeley project.)
